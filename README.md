@@ -1,6 +1,6 @@
 # Welcome to Sabina's Project Portfolio
 
-Here you can find a compilation of my completed projects. 
+Thanks for stopping by! Here you can find some of my academic and personal projects.
 
 ## Military Spending Analysis 
 
