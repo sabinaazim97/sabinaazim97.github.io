@@ -6,7 +6,7 @@ Thanks for stopping by! Here you can find some of my academic and personal proje
 
 Analyzing the military spending form 2014-2018 of the following countries: United States, China, Russia, Germany, United Kingdom, France, Italy, Saudi Arabia, South Korea, Australia
 
-[Let's take a look at this project!](sabinaazim97.github.io/military-analysis.html)
+[Let's take a look at this project!](sabinaazim97.github.io/military_analysis.html)
 
 ## World Happiness Report Analysis
 
