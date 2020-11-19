@@ -18,7 +18,7 @@ Analysis of the happiest and least happiest countries from 2016-2020, what facto
 
 Practice working with K-Nearest Neighbors to classify universities as private or non-private. 
 
-[Take look at this project!](sabinaazim97.github.io/university_classification.html)
+[Take a look at this project!](sabinaazim97.github.io/university_classification.html)
 
 ## Data Analyst Job Openings Analysis 
 
