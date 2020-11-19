@@ -14,6 +14,12 @@ Analysis of the happiest and least happiest countries from 2016-2020, what facto
 
 [Take a look at this project!](sabinaazim97.github.io/world_happiness.html)
 
+## University Classification (K-Nearest Neighbors)
+
+Practicing working with K-Nearest Neighbors to classify universities as private or non-private. 
+
+[Take look at this project!](sabinaazim97.github.io/university_classification.html)
+
 ## Data Analyst Job Openings Analysis 
 
 Analysis of the job market for Data Analysts amidst the pandemic. Get an idea about what companies and industries in general have been actively hiring even during the pandemic and where you should focus your job search depending on various factors such as location, company size, etc.
