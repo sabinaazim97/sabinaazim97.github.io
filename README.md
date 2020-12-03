@@ -20,6 +20,13 @@ Practice working with K-Nearest Neighbors to classify universities as private or
 
 [Take a look at this project!](sabinaazim97.github.io/university_classification.html)
 
+## Electrical Vehicle Charging Station Analysis 
+
+Introduction to Data Science final group project done by Sabina Azim, Harish Ram, and Kristin Levine. We used various Data Science methodologies and algorithms to make recommendations to someone who is planning to build a new electric vehicle charging station. What insights can we give them to optimize their profit and success? 
+
+[Take a look at this project!](sabinaazim97.github.io/EV_analysis.html)
+
+
 ## Data Analyst Job Openings Analysis 
 
 Analysis of the job market for Data Analysts amidst the pandemic. Get an idea about what companies and industries in general have been actively hiring even during the pandemic and where you should focus your job search depending on various factors such as location, company size, etc.
