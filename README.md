@@ -2,11 +2,11 @@
 
 Thanks for stopping by! Here you can find some of my academic and personal projects.
 
-## Military Spending Analysis 
+## Analysis of Snapchat Political Ads Library
 
-Analyzing the military spending form 2014-2018 of the following countries: United States, China, Russia, Germany, United Kingdom, France, Italy, Saudi Arabia, South Korea, Australia
+Using the Snapchat Political Ads Library which Snapchat has made publicly available in 2018 to look at what political organizations use Snapchat the most for advertising, which ads make the most impressions, targeted age/geographic groups, and what kinds of ads were more prevalent in 2020 around election time.
 
-[Take a look at this project!](sabinaazim97.github.io/military_analysis.html)
+[Take a look at this project!](sabinaazim97.github.io/snapchat_political_ads.html)
 
 ## World Happiness Report Analysis
 
@@ -14,7 +14,9 @@ Analysis of the happiest and least happiest countries from 2016-2020, what facto
 
 [Take a look at this project!](sabinaazim97.github.io/world_happiness.html)
 
-## University Classification (K-Nearest Neighbors)
+## Military Spending Analysis 
+
+Analyzing the military spending form 2014-2018 of the following countries: United States, China, Russia, Germany, United Kingdom, France, Italy, Saudi Arabia, South Korea, Australia## University Classification (K-Nearest Neighbors)
 
 Practice working with K-Nearest Neighbors to classify universities as private or non-private. 
 
@@ -25,7 +27,6 @@ Practice working with K-Nearest Neighbors to classify universities as private or
 Introduction to Data Science final group project done by Sabina Azim, Harish Ram, and Kristin Levine. We used various Data Science methodologies and algorithms to make recommendations to someone who is planning to build a new electric vehicle charging station. What insights can we give them to optimize their profit and success? 
 
 [Take a look at this project!](sabinaazim97.github.io/EV_analysis.html)
-
 
 ## Data Analyst Job Openings Analysis 
 
