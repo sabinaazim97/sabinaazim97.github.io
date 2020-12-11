@@ -16,9 +16,7 @@ Analysis of the happiest and least happiest countries from 2016-2020, what facto
 
 ## Military Spending Analysis 
 
-Analyzing the military spending form 2014-2018 of the following countries: United States, China, Russia, Germany, United Kingdom, France, Italy, Saudi Arabia, South Korea, Australia## University Classification (K-Nearest Neighbors)
-
-Practice working with K-Nearest Neighbors to classify universities as private or non-private. 
+Analyzing the military spending form 2014-2018 of the following countries: United States, China, Russia, Germany, United Kingdom, France, Italy, Saudi Arabia, South Korea, Australia
 
 [Take a look at this project!](sabinaazim97.github.io/university_classification.html)
 
@@ -27,6 +25,12 @@ Practice working with K-Nearest Neighbors to classify universities as private or
 Introduction to Data Science final group project done by Sabina Azim, Harish Ram, and Kristin Levine. We used various Data Science methodologies and algorithms to make recommendations to someone who is planning to build a new electric vehicle charging station. What insights can we give them to optimize their profit and success? 
 
 [Take a look at this project!](sabinaazim97.github.io/EV_analysis.html)
+
+## University Classification (KNN Algorithm) 
+
+Practiced using the K-Nearest Neighbors to classify university as Private or Non-Private based on various features. 
+
+[Take a look at this project!](sabinaazim97.github.io/university_classification.html)
 
 ## Data Analyst Job Openings Analysis 
 
