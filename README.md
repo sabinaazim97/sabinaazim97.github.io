@@ -18,7 +18,7 @@ Analysis of the happiest and least happiest countries from 2016-2020, what facto
 
 Analyzing the military spending form 2014-2018 of the following countries: United States, China, Russia, Germany, United Kingdom, France, Italy, Saudi Arabia, South Korea, Australia
 
-[Take a look at this project!](sabinaazim97.github.io/university_classification.html)
+[Take a look at this project!](sabinaazim97.github.io/military_analysis.html)
 
 ## Electrical Vehicle Charging Station Analysis 
 
