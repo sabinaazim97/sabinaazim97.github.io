@@ -2,6 +2,10 @@
 
 Thanks for stopping by! Here you can find some of my academic and personal projects.
 
+## Military, Healthcare, and Education Expenditure Analysis 
+
+[Take a look at this project!] (https://sabinaazim97.github.io/Spending_Analysis_2021/index.html)
+
 ## Analysis of Snapchat Political Ads Library
 
 Using the Snapchat Political Ads Library which Snapchat has made publicly available in 2018 to look at what political organizations use Snapchat the most for advertising, which ads make the most impressions, targeted age/geographic groups, and what kinds of ads were more prevalent in 2020 around election time.
