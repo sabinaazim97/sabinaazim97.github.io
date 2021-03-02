@@ -4,7 +4,7 @@ Thanks for stopping by! Here you can find some of my academic and personal proje
 
 ## Military, Healthcare, and Education Expenditure Analysis 
 
-[Take a look at this project!] (https://sabinaazim97.github.io/Spending_Analysis_2021/index.html)
+[Take a look at this project!](https://sabinaazim97.github.io/Spending_Analysis_2021/index.html)
 
 ## Analysis of Snapchat Political Ads Library
 
