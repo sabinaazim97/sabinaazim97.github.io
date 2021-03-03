@@ -4,6 +4,8 @@ Thanks for stopping by! Here you can find some of my academic and personal proje
 
 ## Military, Healthcare, and Education Expenditure Analysis 
 
+Comparing the military, education, and healthcare expenditure of various nations in the G20. Specifically looking at the total overall spending in each of these departments, as well as in relation to each country's GDP and population. All analysis will be done over the five year period of 2013-2017.
+
 [Take a look at this project!](https://sabinaazim97.github.io/Spending_Analysis_2021/index.html)
 
 ## Analysis of Snapchat Political Ads Library
