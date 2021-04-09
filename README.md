@@ -18,7 +18,7 @@ Using the Snapchat Political Ads Library which Snapchat has made publicly availa
 
 Analysis of the happiest and least happiest countries from 2016-2020, what factors weigh heaviest when it comes to calculating the Happiness Score, and if a country's Happiness Ranking has any correlation to their suicide mortality rate.
 
-[Take a look at this project!](sabinaazim97.github.io/sabinaazim97.github.io/world_happiness.html)
+[Take a look at this project!](sabinaazim97.github.io/world_happiness.html)
 
 ## Electrical Vehicle Charging Station Analysis 
 
