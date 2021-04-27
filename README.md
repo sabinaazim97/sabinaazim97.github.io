@@ -4,6 +4,15 @@ Thanks for stopping by! Here you can find some of my academic and personal proje
 
 ## Aviation Crash Analysis
 
+This project explores trends and commonalities among aviation crashes using unique and meaningful visualizations. The data used for this analysis takes into account civil, commercial, military, and cargo aircrafts.  
+
+Specifically, this project will look into trends in the following categories:
+
+- Aircrafts and operators
+- Location and flight routes
+- Time of the year/month/day
+- Fatalities
+
 [Take a look at this project!](https://sabinaazim97.github.io/Aviation-Crash-Analysis/index.html)
 
 ## Military, Healthcare, and Education Expenditure Analysis 
