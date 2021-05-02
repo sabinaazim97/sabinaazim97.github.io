@@ -15,6 +15,10 @@ Specifically, this project will look into trends in the following categories:
 
 [Take a look at this project!](https://sabinaazim97.github.io/Aviation-Crash-Analysis/index.html)
 
+## Predicting Presence of Diabetes Mellitus w/ Logistic Regression
+
+[Take a look at this project!](https://sabinaazim97.github.io/Diabetes_Mellitus.html)
+
 ## Military, Healthcare, and Education Expenditure Analysis 
 
 Comparing the military, healthcare, and education expenditure of various nations in the G20. Specifically looking at the total overall spending in each of these departments, as well as in relation to each country's GDP and population over the five year period of 2013-2017. This project utilizes the Google Visualization API, HTML, and CSS. 
