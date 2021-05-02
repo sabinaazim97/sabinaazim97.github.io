@@ -15,7 +15,9 @@ Specifically, this project will look into trends in the following categories:
 
 [Take a look at this project!](https://sabinaazim97.github.io/Aviation-Crash-Analysis/index.html)
 
-## Predicting Presence of Diabetes Mellitus w/ Logistic Regression
+## Presence of Diabetes Mellitus (Logistic Regression)
+
+Machine learning project done by Sabina Azim, Arushi Kapoor, and Natasha Vij. The topic for this project was obtained from the annual Women in Data Science Datathon organized on Kaggle. The purpose of this challenge is to “determine whether a patient admitted to an ICU has been diagnosed with a particular type of diabetes, Diabetes Mellitus.”  
 
 [Take a look at this project!](https://sabinaazim97.github.io/Diabetes_Mellitus.html)
 
