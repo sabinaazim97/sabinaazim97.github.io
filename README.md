@@ -50,9 +50,3 @@ Introduction to Data Science final group project done by Sabina Azim, Harish Ram
 Practiced using the K-Nearest Neighbors to classify university as Private or Non-Private based on various features. 
 
 [Take a look at this project!](https://sabinaazim97.github.io/university_classification.html)
-
-## Data Analyst Job Openings Analysis 
-
-Analysis of the job market for Data Analysts amidst the pandemic. Get an idea about what companies and industries in general have been actively hiring even during the pandemic and where you should focus your job search depending on various factors such as location, company size, etc.
-
-[Take a look at this project!](https://sabinaazim97.github.io/job_analysis.html)
