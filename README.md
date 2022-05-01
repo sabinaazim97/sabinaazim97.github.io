@@ -2,7 +2,13 @@
 
 Thanks for stopping by! Here you can find some of my academic and personal projects.
 
-## Fashion Recommendation System
+## Temperature-Based Fashion Recommendation System 
+
+This project was completed in collaboration with Natasha Vij for our MS in Data Science Capstone Project at The George Washington Univeristy. The goals of this project were to: 
+
+- Compare the accuracy of Convolution Neural Network models for image classification
+- Create a temperature-based outfit recommendations system using model with highest accuracy with Spotfify's Annoy (Approx. Nearest Neighbors) Library 
+- Display outfit recommendations on a visual platform
 
 [Take a look at this project!](https://sabinaazim97.github.io/Temperature-Based-Fashion-Recommendation-System/GUI/index.html)
 
