@@ -7,7 +7,7 @@ Thanks for stopping by! Here you can find some of my academic and personal proje
 This project was completed in collaboration with Natasha Vij for our MS in Data Science Capstone Project at The George Washington Univeristy. The goals of this project were to: 
 
 - Compare the accuracy of Convolution Neural Network (CNN) models for image classification
-- Create a temperature-based outfit recommendation system with Spotfify's Annoy (Approx. Nearest Neighbors) Library based on most accurate CNN model results
+- Create a temperature-based outfit recommendation system using Spotfify's Annoy (Approx. Nearest Neighbors) Library based on most accurate CNN model results
 - Display outfit recommendations on a visual platform
 
 [Take a look at this project!](https://sabinaazim97.github.io/Temperature-Based-Fashion-Recommendation-System/GUI/index.html)
