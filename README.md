@@ -2,11 +2,6 @@
 
 Thanks for stopping by! Here you can find some of my academic and personal projects.
 
-## George Washington University, MS in Data Science Capstone Project - Temperature-Based Fashion Recommendation System
-
-[Take a look at this project!](https://sabinaazim97.github.io/Temperature-Based-Fashion-Recommendation-System/index.html)
-
-
 ## Aviation Crash Analysis
 
 This project explores trends and commonalities among aviation crashes using unique and meaningful visualizations. The data used for this analysis takes into account civil, commercial, military, and cargo aircrafts.  
