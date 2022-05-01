@@ -4,7 +4,7 @@ Thanks for stopping by! Here you can find some of my academic and personal proje
 
 ## Fashion Recommendation System
 
-[Take a look at this project!](https://sabinaazim97.github.io/Temperature-Based-Fashion-Recommendation-System/)
+[Take a look at this project!](https://sabinaazim97.github.io/Temperature-Based-Fashion-Recommendation-System/index.html)
 
 ## Aviation Crash Analysis
 
