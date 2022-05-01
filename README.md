@@ -2,6 +2,10 @@
 
 Thanks for stopping by! Here you can find some of my academic and personal projects.
 
+## Fashion Recommendation System
+
+[Take a look at this project!](https://sabinaazim97.github.io/fashion_recommendation.html)
+
 ## Aviation Crash Analysis
 
 This project explores trends and commonalities among aviation crashes using unique and meaningful visualizations. The data used for this analysis takes into account civil, commercial, military, and cargo aircrafts.  
